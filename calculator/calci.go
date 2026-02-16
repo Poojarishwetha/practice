@@ -42,5 +42,6 @@ func main() {
 			fmt.Println("invalid operator")
 		}
 	}
+	fmt.Println("final result:", a)
 
 }
