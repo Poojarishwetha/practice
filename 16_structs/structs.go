@@ -63,5 +63,6 @@ func main() {
 		State: "qwertyui",
 	}
 	fmt.Println(emp.Person_Address)
+	fmt.Println(emp.Person_Details)
 
 }
